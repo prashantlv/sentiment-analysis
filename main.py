@@ -15,7 +15,7 @@ for word in tokenized_text:
     if word not in stopWords:
         corpora.append(word)
 
-print(corpora)
+#print(corpora)
 
 emotion_list = []
 with open('emotions.txt','r') as file:
@@ -31,7 +31,7 @@ with open('emotions.txt','r') as file:
             if words in corpora:
                 emotion_list.append(emotions)
 
-print(emotion_list)      
+print(set(emotion_list))      
 
 # from collections import Counter
 # emotion_count = Counter(emotion_list)

@@ -1,1 +1,25 @@
-Hello Friend! I am feeling very alone today. Please help me. I do not know what i am doing. I am very sad but my pet is happy and i do not know how to react. dont
+Linux creator Linus Torvalds is sorry for being a jerk.
+
+Torvalds announced Sunday that he's taking time off to address his infamous habit of swearing at other software developers on the Linux kernel mailing list to get things done.
+
+"My flippant attacks in emails have been both unprofessional and uncalled for. Especially at times when I made it personal," he wrote in an email to Linux development community. "In my quest for a better patch, this made sense to me. I know now this was not OK and I am truly sorry."
+
+Over the past two decades, the Linux founder has gained a reputation for offering unfiltered opinions on technology and software development. In 2012, he told Nvidia "fuck you" and flipped the company the bird for omitting graphics card hardware drivers in Linux's open source code. He's also claimed that Microsoft "isn't evil, they just make really crappy operating systems," and blasted Intel over its handling of security bugs.
+
+His candid takes have made for great headlines. But on the flip side, the tech legend has also been accused of being verbally abusive to other software programmers when it comes to Linux's development. One prominent example includes Torvalds telling a developer to "SHUT THE FUCK UP!" and deriding his proposed changes as "total and utter CRAP." (There's a whole subreddit devoted to Torvalds' rants.)
+
+In the past, Torvalds justified his behavior, saying back in 2015: "I'm not a nice person and I don't care about you. Really. Seriously. I care about the technology and I care about the kernel." Prior to that, he said, "I simply don't believe in being polite or politically correct."
+
+"I really fundamentally believe that being honest and open about your emotions about core/process is good. And because it's damn hard to read people over email, I think you need to be *more* honest and *more* open over email," he said back in 2013.
+
+However, Torvalds said on Sunday he had a change of heart when last week people in the Linux community confronted him about his "lifetime of not understanding emotions."
+
+"I need to change some of my behavior, and I want to apologize to the people that my personal behavior hurt and possibly drove away from kernel development entirely," he said in his email.
+
+Torvalds isn't stepping away from Linux's development. The upcoming Linux 4.19 release will be finished by Linux kernel chief Greg Kroah-Hartman, but Torvalds plans to attend the Linux Maintainer Summit next month.
+
+Torvalds also approved a new code of conduct for the Linux kernel that intends to promote a "harassment-free" environment for developers by banning trolling and personal or political attacks. (In his email, he also entertained the idea of installing a software filter that'll remove curse words from his emails.)
+
+The whole episode is stirring up debate over free speech and political correctness in the software development community. One Linux developer replied to Torvalds email saying, "No. Just no. You're so successful because you're one of few people who don't waste time beating around the bush. You call a spade a spade instead of polite 'professional' bullshit."
+
+However, others argue that Torvalds' behavior helped pave the way for online trolling. "Am I the only one who thinks Linus Torvalds' attitude for decades was a prime contributor to how many of the condescending, rudes, jerks in Linux and open source 'communities' behaved? I've never once felt welcomed into the Linux community as a new user," wrote one Twitter user.
