@@ -15,4 +15,17 @@ for word in tokenized_text:
     if word not in stopWords:
         corpora.append(word)
 
-print(corpora)
+#print(corpora)
+
+emotion_list = []
+with open('emotions.txt') as file:
+    for line in file:
+        cleaned = line.replace("\n","").replace("'","").replace(",","").strip()
+        #print(cleaned)    
+        word, emotion = cleaned.split(':')
+        #print(word + ':' + emotion)
+
+        if word in corpora:
+            emotion_list.append(word)
+                
+print(emotion_list)                
