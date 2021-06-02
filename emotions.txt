@@ -515,4 +515,3 @@
  'unhappy':'sad',
  'vindicated':'singled out',
  'worked up':'angry'
-
