@@ -20,12 +20,13 @@ for word in tokenized_text:
 emotion_list = []
 with open('emotions.txt') as file:
     for line in file:
-        cleaned = line.replace("\n","").replace("'","").replace(",","").strip()
-        #print(cleaned)    
-        word, emotion = cleaned.split(':')
-        #print(word + ':' + emotion)
-
+        cleaned = line.replace('\n', '').replace(',', '').replace("'", '').replace(' ', '')
+        print(cleaned)    
+        word, emotions = cleaned.split(':')
+        #print(emotions)
+        
         if word in corpora:
-            emotion_list.append(word)
-                
+            emotion_list.append(emotions)
+        
+
 print(emotion_list)                
