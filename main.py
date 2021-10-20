@@ -38,6 +38,9 @@ emotion_count = Counter(emotion_list)
 print(emotion_count.most_common(2))
 
 import matplotlib.pyplot as plt
-
 plt.plot(emotion_count[0], emotion_count[1])
 plt.show()
+
+
+
+
